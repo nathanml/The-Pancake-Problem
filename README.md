@@ -100,4 +100,10 @@ utility.py: Implements logic that is shared by ucs and
             a_star (Node, Priority Queue, flip(), goal_
             test(), and get_solution() for returning
             solution steps.
+
+## What I learned
+1. Search agent design
+2. Uninformed search
+3. Informed search
+4. Priority queue implementation with heapq
 ```
