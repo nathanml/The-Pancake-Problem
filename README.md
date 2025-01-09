@@ -1,4 +1,4 @@
-# CS131 Assignment 02 - Informed Search
+# The Pancake Problem
 ## Instructions to run and test
 From the root directory, run the following command in the 
 command line:
